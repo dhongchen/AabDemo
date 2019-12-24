@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AabDemo</string>
+    <string name="title_feature1">module1</string>
+    <string name="title_feature2">module2</string>
+</resources>
